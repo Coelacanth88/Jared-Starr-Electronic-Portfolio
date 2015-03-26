@@ -1,0 +1,69 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.4788]
+    Renderer: Intel(R) HD Graphics 4600
+    Vendor:   Intel
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.108 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Jared\Documents\GitHub\Jared-Starr-Electronic-Portfolio\Before Death Game\BeforeDeath(Keyboard Build)_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+The tree Bush1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree Bush3 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The tree Fern must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1769)
+
+UnloadTime: 1.174080 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 228 unused Assets to reduce memory usage. Loaded Objects now: 676.
+Total: 2.688648 ms (FindLiveObjects: 0.029452 ms CreateObjectMapping: 0.013387 ms MarkObjects: 0.148600 ms  DeleteObjects: 2.069255 ms)
+
+UnloadTime: 25.757029 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 592.
+Total: 3.698509 ms (FindLiveObjects: 0.025882 ms CreateObjectMapping: 0.012941 ms MarkObjects: 0.179838 ms  DeleteObjects: 3.008608 ms)
+
+UnloadTime: 5.838271 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 23378 unused Assets to reduce memory usage. Loaded Objects now: 1132.
+Total: 32.795261 ms (FindLiveObjects: 1.270469 ms CreateObjectMapping: 1.925116 ms MarkObjects: 0.244098 ms  DeleteObjects: 28.945026 ms)
+
+UnloadTime: 2.564144 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 27518 unused Assets to reduce memory usage. Loaded Objects now: 1383.
+Total: 38.137306 ms (FindLiveObjects: 0.909901 ms CreateObjectMapping: 2.082196 ms MarkObjects: 0.246775 ms  DeleteObjects: 34.496807 ms)
+
+UnloadTime: 5.778474 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 1045.
+Total: 3.274126 ms (FindLiveObjects: 0.056227 ms CreateObjectMapping: 0.025882 ms MarkObjects: 0.248114 ms  DeleteObjects: 2.368687 ms)
+
