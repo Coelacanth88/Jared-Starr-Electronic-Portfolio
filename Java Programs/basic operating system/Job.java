@@ -1,6 +1,6 @@
 /*
  * @Jared Starr   
- * @assignemnt CS350 Term Project 
+ * @assignment CS350 Term Project 
  * @date 04/08/2014
  *
 */
