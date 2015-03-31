@@ -174,15 +174,15 @@
     <object>objects\obj_ending_text</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\cutSceneRoom1</room>
-    <room>rooms\cutsceneRoom2</room>
-    <room>rooms\cutsceneRoom3</room>
-    <room>rooms\cutsceneRoom4</room>
-    <room>rooms\cutsceneRoom5</room>
     <room>rooms\menuRoom</room>
     <room>rooms\testRoom</room>
     <room>rooms\bossroom</room>
     <room>rooms\creditsRoom</room>
+    <room>rooms\cutSceneRoom1</room>
+    <room>rooms\cutsceneRoom3</room>
+    <room>rooms\cutsceneRoom2</room>
+    <room>rooms\cutsceneRoom5</room>
+    <room>rooms\cutsceneRoom4</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
